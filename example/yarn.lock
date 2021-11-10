@@ -312,8 +312,10 @@
     "@typescript-eslint/types" "4.33.0"
     eslint-visitor-keys "^2.0.0"
 
-"@uploadcare/nextjs-loader@../":
-  version "0.3.0"
+"@uploadcare/nextjs-loader@*":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@uploadcare/nextjs-loader/-/nextjs-loader-0.3.1.tgz#ac2affc0651c4874bd50764fbc1344f8933963c7"
+  integrity sha512-jMYU4vI+c2bLPgX63H82cQUl/hD8EVnEl+4bVe0zyX7TNZD90CXrkjvtLIL9R029ppoNcYwULWL30gXYIrSEnQ==
 
 acorn-jsx@^5.3.1:
   version "5.3.2"
